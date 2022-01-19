@@ -1,2 +1,3 @@
 # Hash-Table
-Implement hash table using C++ language
+
+Implement a hash table using a character array and apply linear probing to resolve collision. 
